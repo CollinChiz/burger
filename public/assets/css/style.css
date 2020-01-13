@@ -1,7 +1,7 @@
 body {
     width: 99%;
     height: 900px;
-    background-color: #fc6;
+    background-color: brown;
   }
   
   #top-bar {
@@ -64,6 +64,13 @@ body {
   }
   
   h1 {
-    color: #f30;
+    color: yellow;
+  }
+
+  p {
+    color: yellow;
   }
   
+  .text-center .form-control {
+    background-color:yellow;
+  }
